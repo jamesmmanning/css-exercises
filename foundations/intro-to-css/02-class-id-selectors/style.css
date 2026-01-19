@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd-element {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 128, 191);
+}
+
+.bigger-font-size {
+    font-size: 24px
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: hsl(156, 100%, 75%);
+    font-weight: bold;
+}
