@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.dark-class, .light-class {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}/* Add CSS Styling */
+
+.dark-class {
+    background-color: rgb(0, 0, 153);
+    color: white;
+}
+
+.light-class {
+    background-color: hsl(60, 100%, 65%);
+    color: black;
+}
